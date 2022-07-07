@@ -55,6 +55,7 @@ como retorno obtive que a senha de c0ldd é **9876543210**
 
 # Referências
 
+- [A comprehensive guide to Kali Linux: essentials and beyond](https://medium.com/analytics-vidhya/a-comprehensive-guide-to-kali-linux-essentials-and-beyond-ae29298c3be3)
 - [A begginers guide to Vulnhub: part 1](https://medium.com/@gavinloughridge/a-beginners-guide-to-vulnhub-part-1-52b06466635d)
 - [A begginers guide to Vulnhub: part 2](https://medium.com/@gavinloughridge/a-beginners-guide-to-vulnhub-part-2-b13c6314027c)
 - [A begginers guide to Vulnhub: part 3](https://medium.com/@gavinloughridge/a-beginners-guide-to-vulnhub-part-3-bcf334d8cd04)

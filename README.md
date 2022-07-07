@@ -4,7 +4,6 @@ Máquina virtual com sistema WordPress
 
 ![image](https://user-images.githubusercontent.com/56542755/177674926-a772c226-44cf-4a1e-a593-04844e117380.png)
 
-
 ## Ferramentas utilizadas:
 
 - [Kali VM](https://kali.download/virtual-images/kali-2022.2/kali-linux-2022.2-virtualbox-amd64.ova)
@@ -21,7 +20,7 @@ Máquina virtual com sistema WordPress
 
 ## Setup
 
-Configurei as VM's como descrito [aqui](https://medium.com/@gavinloughridge/a-beginners-guide-to-vulnhub-part-1-52b06466635d)
+Configurei as VM's como descrito [aqui](https://medium.com/@gavinloughridge/a-beginners-guide-to-vulnhub-part-1-52b06466635d) e a wordslist dessa [forma](https://www.fosslinux.com/48115/kali-linux-wordlist-what-you-need-to-know.htm)
 
 ## Exploração
 
